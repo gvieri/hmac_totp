@@ -18,6 +18,7 @@ error_reporting(E_ALL);
 http://tools.ietf.org/html/rfc6238
  * @since 2013
  * @version 0
+ * LICENSE AFFERO GPL
  */
 
 if (0 > version_compare(PHP_VERSION, '5')) {
